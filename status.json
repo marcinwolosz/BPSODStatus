@@ -1,5 +1,5 @@
 {
-  "status": "OK",
-  "description": "System działa prawidłowo.",
-  "color": "#d1e7dd"
+  "status": "NOK",
+  "description": "System nie działa prawidłowo. WALCZYMY ŻEBY POPRAWIĆ :)",
+  "color": "#fee2e2"
 }
