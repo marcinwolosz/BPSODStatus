@@ -1,5 +1,5 @@
 {
   "status": "WARN",
-  "description": "BPS 26 może generować problemy wynikające ze zmiany architektury. Wersje do 25 powinni dzialać bez problemów.",
+  "description": "BPS 26 może generować problemy wynikające ze zmiany architektury. Wersje do 25 powinny dzialać bez problemów.",
   "color": "#fef3c7"
 }
