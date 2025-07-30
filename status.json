@@ -1,5 +1,5 @@
 {
-  "status": "OK",
-  "description": "Czynności życiowe wydają się być w normie",
-  "color": "#d1e7dd"
+  "status": "WARN",
+  "description": "BPS 26 może generować problemy wynikające ze zmiany architektury. Wersje do 25 powinni dzialać bez problemów.",
+  "color": "#fef3c7"
 }
