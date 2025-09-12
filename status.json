@@ -1,5 +1,5 @@
 {
-  "status": "OK",
-  "description": "Czynności życiowe BPSODa wydają się być w normie",
-  "color": "#d1fae5"
+  "status": "WARN",
+  "description": "MAIN PONOWNIE PRZESTAŁ DZIAŁAĆ OD KTÓREGOŚ BUILDA. W WOLNYM CZASIE PRZEANALIZUJE",
+  "color": "#fef3c7 "
 }
