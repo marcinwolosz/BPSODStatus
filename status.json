@@ -1,5 +1,5 @@
 {
-  "status": "WARN",
-  "description": "MAIN PONOWNIE PRZESTAŁ DZIAŁAĆ OD KTÓREGOŚ BUILDA. W WOLNYM CZASIE PRZEANALIZUJE",
-  "color": "#fef3c7 "
+  "status": "OK",
+  "description": "Chyba zmienił się port pod jakim odpowiada portal. Po zmianie na 8080 wydaje się cos tam działać. Poprzednie BPSOD na mainie za to pewnie przestały, trzeba sobie podnieść :)",
+  "color": "#d1fae5  "
 }
