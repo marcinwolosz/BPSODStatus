@@ -1,5 +1,5 @@
 {
   "status": "OK",
-  "description": "Chyba zmienił się port pod jakim odpowiada portal. Po zmianie na 8080 wydaje się cos tam działać. Poprzednie BPSOD na mainie za to pewnie przestały, trzeba sobie podnieść :)",
+  "description": "Main działa już na .net core 9.0. Dodatkowo wszystkie BPSOD będą miały domyślnie webowe studio.",
   "color": "#d1fae5  "
 }
