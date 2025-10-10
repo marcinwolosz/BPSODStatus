@@ -1,5 +1,5 @@
 {
   "status": "OK",
-  "description": "Main działa już na .net core 9.0. Dodatkowo wszystkie BPSOD będą miały domyślnie webowe studio. <br> Ciekawe czy zadziała :)",
+  "description": "Main działa już na .net core 9.0. Dodatkowo wszystkie BPSOD będą miały domyślnie włączone studio webowe.",
   "color": "#d1fae5  "
 }
