@@ -1,5 +1,5 @@
 {
   "status": "OK",
-  "description": "Main działa już na .net core 9.0. Dodatkowo wszystkie BPSOD będą miały domyślnie włączone studio webowe. Jeżeli wersja nie ma jeszcze zbudowanego obrazu, to może się budować około 20/30 min. Wynika to z faktu, że musimy zbudować przepotężne dwa obrazy dla portalu i serwisu (po około 10 GB).",
+  "description": "",
   "color": "#d1fae5  "
 }
